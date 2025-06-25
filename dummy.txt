@@ -1,0 +1,813 @@
+PRESERVATION AND IMAGING
+
+Preservation, as that term is used by archivists,(3) was most explicitly
+discussed in the context of imaging.  Anne KENNEY and Lynne PERSONIUS
+explained how the concept of a faithful copy and the user-friendliness of
+the traditional book have guided their project at Cornell University.(4) 
+Although interested in computerized dissemination, participants in the
+Cornell project are creating digital image sets of older books in the
+public domain as a source for a fresh paper facsimile or, in a future
+phase, microfilm.  The books returned to the library shelves are
+high-quality and useful replacements on acid-free paper that should last
+a long time.  To date, the Cornell project has placed little or no
+emphasis on creating searchable texts; one would not be surprised to find
+that the project participants view such texts as new editions, and thus
+not as faithful reproductions. 
+
+In her talk on preservation, Patricia BATTIN struck an ecumenical and
+flexible note as she endorsed the creation and dissemination of a variety
+of types of digital copies.  Do not be too narrow in defining what counts
+as a preservation element, BATTIN counseled; for the present, at least,
+digital copies made with preservation in mind cannot be as narrowly
+standardized as, say, microfilm copies with the same objective.  Setting
+standards precipitously can inhibit creativity, but delay can result in
+chaos, she advised.
+
+In part, BATTIN's position reflected the unsettled nature of image-format
+standards, and attendees could hear echoes of this unsettledness in the
+comments of various speakers.  For example, Jean BARONAS reviewed the
+status of several formal standards moving through committees of experts;
+and Clifford LYNCH encouraged the use of a new guideline for transmitting
+document images on Internet.  Testimony from participants in the National
+Agricultural Library's (NAL) Text Digitization Program and LC's American
+Memory project highlighted some of the challenges to the actual creation
+or interchange of images, including difficulties in converting
+preservation microfilm to digital form.  Donald WATERS reported on the
+progress of a master plan for a project at Yale University to convert
+books on microfilm to digital image sets, Project Open Book (POB).
+
+The Workshop offered rather less of an imaging practicum than planned,
+but "how-to" hints emerge at various points, for example, throughout
+KENNEY's presentation and in the discussion of arcana such as
+thresholding and dithering offered by George THOMA and FLEISCHHAUER.
+
+NOTES:
+     (3)  Although there is a sense in which any reproductions of
+     historical materials preserve the human record, specialists in the
+     field have developed particular guidelines for the creation of
+     acceptable preservation copies.
+
+     (4)  Titles and affiliations of presenters are given at the
+     beginning of their respective talks and in the Directory of
+     Participants (Appendix III).
+
+
+THE MACHINE-READABLE TEXT:  MARKUP AND USE
+
+The sections of the Workshop that dealt with machine-readable text tended
+to be more concerned with access and use than with preservation, at least
+in the narrow technical sense.  Michael SPERBERG-McQUEEN made a forceful
+presentation on the Text Encoding Initiative's (TEI) implementation of
+the Standard Generalized Markup Language (SGML).  His ideas were echoed
+by Susan HOCKEY, Elli MYLONAS, and Stuart WEIBEL.  While the
+presentations made by the TEI advocates contained no practicum, their
+discussion focused on the value of the finished product, what the
+European Community calls reusability, but what may also be termed
+durability.  They argued that marking up--that is, coding--a text in a
+well-conceived way will permit it to be moved from one computer
+environment to another, as well as to be used by various users.  Two
+kinds of markup were distinguished:  1) procedural markup, which
+describes the features of a text (e.g., dots on a page), and 2)
+descriptive markup, which describes the structure or elements of a
+document (e.g., chapters, paragraphs, and front matter).
+
+The TEI proponents emphasized the importance of texts to scholarship. 
+They explained how heavily coded (and thus analyzed and annotated) texts
+can underlie research, play a role in scholarly communication, and
+facilitate classroom teaching.  SPERBERG-McQUEEN reminded listeners that
+a written or printed item (e.g., a particular edition of a book) is
+merely a representation of the abstraction we call a text.  To concern
+ourselves with faithfully reproducing a printed instance of the text,
+SPERBERG-McQUEEN argued, is to concern ourselves with the representation
+of a representation ("images as simulacra for the text").  The TEI proponents'
+interest in images tends to focus on corollary materials for use in teaching,
+for example, photographs of the Acropolis to accompany a Greek text.
+
+By the end of the Workshop, SPERBERG-McQUEEN confessed to having been
+converted to a limited extent to the view that electronic images
+constitute a promising alternative to microfilming; indeed, an
+alternative probably superior to microfilming.  But he was not convinced
+that electronic images constitute a serious attempt to represent text in
+electronic form.  HOCKEY and MYLONAS also conceded that their experience
+at the Pierce Symposium the previous week at Georgetown University and
+the present conference at the Library of Congress had compelled them to
+reevaluate their perspective on the usefulness of text as images. 
+Attendees could see that the text and image advocates were in
+constructive tension, so to say.
+
+Three nonTEI presentations described approaches to preparing
+machine-readable text that are less rigorous and thus less expensive.  In
+the case of the Papers of George Washington, Dorothy TWOHIG explained
+that the digital version will provide a not-quite-perfect rendering of
+the transcribed text--some 135,000 documents, available for research
+during the decades while the perfect or print version is completed. 
+Members of the American Memory team and the staff of NAL's Text
+Digitization Program (see below) also outlined a middle ground concerning
+searchable texts.  In the case of American Memory, contractors produce
+texts with about 99-percent accuracy that serve as "browse" or
+"reference" versions of written or printed originals.  End users who need
+faithful copies or perfect renditions must refer to accompanying sets of
+digital facsimile images or consult copies of the originals in a nearby
+library or archive.  American Memory staff argued that the high cost of
+producing 100-percent accurate copies would prevent LC from offering
+access to large parts of its collections.
+
+
+THE MACHINE-READABLE TEXT:  METHODS OF CONVERSION
+
+Although the Workshop did not include a systematic examination of the
+methods for converting texts from paper (or from facsimile images) into
+machine-readable form, nevertheless, various speakers touched upon this
+matter.  For example, WEIBEL reported that OCLC has experimented with a
+merging of multiple optical character recognition systems that will
+reduce errors from an unacceptable rate of 5 characters out of every
+l,000 to an unacceptable rate of 2 characters out of every l,000.
+
+Pamela ANDRE presented an overview of NAL's Text Digitization Program and
+Judith ZIDAR discussed the technical details.  ZIDAR explained how NAL
+purchased hardware and software capable of performing optical character
+recognition (OCR) and text conversion and used its own staff to convert
+texts.  The process, ZIDAR said, required extensive editing and project
+staff found themselves considering alternatives, including rekeying
+and/or creating abstracts or summaries of texts.  NAL reckoned costs at
+$7 per page.  By way of contrast, Ricky ERWAY explained that American
+Memory had decided from the start to contract out conversion to external
+service bureaus.  The criteria used to select these contractors were cost
+and quality of results, as opposed to methods of conversion.  ERWAY noted
+that historical documents or books often do not lend themselves to OCR. 
+Bound materials represent a special problem.  In her experience, quality
+control--inspecting incoming materials, counting errors in samples--posed
+the most time-consuming aspect of contracting out conversion.  ERWAY
+reckoned American Memory's costs at $4 per page, but cautioned that fewer
+cost-elements had been included than in NAL's figure.
+
+
+OPTIONS FOR DISSEMINATION
+
+The topic of dissemination proper emerged at various points during the
+Workshop.  At the session devoted to national and international computer
+networks, LYNCH, Howard BESSER, Ronald LARSEN, and Edwin BROWNRIGG
+highlighted the virtues of Internet today and of the network that will
+evolve from Internet.  Listeners could discern in these narratives a
+vision of an information democracy in which millions of citizens freely
+find and use what they need.  LYNCH noted that a lack of standards
+inhibits disseminating multimedia on the network, a topic also discussed
+by BESSER.  LARSEN addressed the issues of network scalability and
+modularity and commented upon the difficulty of anticipating the effects
+of growth in orders of magnitude.  BROWNRIGG talked about the ability of
+packet radio to provide certain links in a network without the need for
+wiring.  However, the presenters also called attention to the
+shortcomings and incongruities of present-day computer networks.  For
+example:  1) Network use is growing dramatically, but much network
+traffic consists of personal communication (E-mail).  2) Large bodies of
+information are available, but a user's ability to search across their
+entirety is limited.  3) There are significant resources for science and
+technology, but few network sources provide content in the humanities. 
+4) Machine-readable texts are commonplace, but the capability of the
+system to deal with images (let alone other media formats) lags behind. 
+A glimpse of a multimedia future for networks, however, was provided by
+Maria LEBRON in her overview of the Online Journal of Current Clinical
+Trials (OJCCT), and the process of scholarly publishing on-line.   
+
+The contrasting form of the CD-ROM disk was never systematically
+analyzed, but attendees could glean an impression from several of the
+show-and-tell presentations.  The Perseus and American Memory examples
+demonstrated recently published disks, while the descriptions of the
+IBYCUS version of the Papers of George Washington and Chadwyck-Healey's
+Patrologia Latina Database (PLD) told of disks to come.  According to
+Eric CALALUCA, PLD's principal focus has been on converting Jacques-Paul
+Migne's definitive collection of Latin texts to machine-readable form. 
+Although everyone could share the network advocates' enthusiasm for an
+on-line future, the possibility of rolling up one's sleeves for a session
+with a CD-ROM containing both textual materials and a powerful retrieval
+engine made the disk seem an appealing vessel indeed.  The overall
+discussion suggested that the transition from CD-ROM to on-line networked
+access may prove far slower and more difficult than has been anticipated.
+
+
+WHO ARE THE USERS AND WHAT DO THEY DO?
+
+Although concerned with the technicalities of production, the Workshop
+never lost sight of the purposes and uses of electronic versions of
+textual materials.  As noted above, those interested in imaging discussed
+the problematical matter of digital preservation, while the TEI proponents
+described how machine-readable texts can be used in research.  This latter
+topic received thorough treatment in the paper read by Avra MICHELSON.
+She placed the phenomenon of electronic texts within the context of
+broader trends in information technology and scholarly communication.
+
+Among other things, MICHELSON described on-line conferences that
+represent a vigorous and important intellectual forum for certain
+disciplines.  Internet now carries more than 700 conferences, with about
+80 percent of these devoted to topics in the social sciences and the
+humanities.  Other scholars use on-line networks for "distance learning." 
+Meanwhile, there has been a tremendous growth in end-user computing;
+professors today are less likely than their predecessors to ask the
+campus computer center to process their data.  Electronic texts are one
+key to these sophisticated applications, MICHELSON reported, and more and
+more scholars in the humanities now work in an on-line environment. 
+Toward the end of the Workshop, Michael LESK presented a corollary to
+MICHELSON's talk, reporting the results of an experiment that compared
+the work of one group of chemistry students using traditional printed
+texts and two groups using electronic sources.  The experiment
+demonstrated that in the event one does not know what to read, one needs
+the electronic systems; the electronic systems hold no advantage at the
+moment if one knows what to read, but neither do they impose a penalty.
+
+DALY provided an anecdotal account of the revolutionizing impact of the
+new technology on his previous methods of research in the field of classics.
+His account, by extrapolation, served to illustrate in part the arguments
+made by MICHELSON concerning the positive effects of the sudden and radical
+transformation being wrought in the ways scholars work.
+
+Susan VECCIA and Joanne FREEMAN delineated the use of electronic
+materials outside the university.  The most interesting aspect of their
+use, FREEMAN said, could be seen as a paradox:  teachers in elementary
+and secondary schools requested access to primary source materials but,
+at the same time, found that "primariness" itself made these materials
+difficult for their students to use.
+
+
+OTHER TOPICS
+
+Marybeth PETERS reviewed copyright law in the United States and offered
+advice during a lively discussion of this subject.  But uncertainty
+remains concerning the price of copyright in a digital medium, because a
+solution remains to be worked out concerning management and synthesis of
+copyrighted and out-of-copyright pieces of a database.
+
+As moderator of the final session of the Workshop, Prosser GIFFORD directed
+discussion to future courses of action and the potential role of LC in
+advancing them.  Among the recommendations that emerged were the following:
+
+     * Workshop participants should 1) begin to think about working
+     with image material, but structure and digitize it in such a
+     way that at a later stage it can be interpreted into text, and
+     2) find a common way to build text and images together so that
+     they can be used jointly at some stage in the future, with
+     appropriate network support, because that is how users will want
+     to access these materials.  The Library might encourage attempts
+     to bring together people who are working on texts and images.
+
+     * A network version of American Memory should be developed or
+     consideration should be given to making the data in it
+     available to people interested in doing network multimedia. 
+     Given the current dearth of digital data that is appealing and
+     unencumbered by extremely complex rights problems, developing a
+     network version of American Memory could do much to help make
+     network multimedia a reality.
+
+     * Concerning the thorny issue of electronic deposit, LC should
+     initiate a catalytic process in terms of distributed
+     responsibility, that is, bring together the distributed
+     organizations and set up a study group to look at all the
+     issues related to electronic deposit and see where we as a
+     nation should move.  For example, LC might attempt to persuade
+     one major library in each state to deal with its state
+     equivalent publisher, which might produce a cooperative project
+     that would be equitably distributed around the country, and one
+     in which LC would be dealing with a minimal number of publishers
+     and minimal copyright problems.  LC must also deal with the
+     concept of on-line publishing, determining, among other things,
+     how serials such as OJCCT might be deposited for copyright.
+
+     * Since a number of projects are planning to carry out
+     preservation by creating digital images that will end up in
+     on-line or near-line storage at some institution, LC might play
+     a helpful role, at least in the near term, by accelerating how
+     to catalog that information into the Research Library Information
+     Network (RLIN) and then into OCLC, so that it would be accessible.
+     This would reduce the possibility of multiple institutions digitizing
+     the same work. 
+
+
+CONCLUSION
+
+The Workshop was valuable because it brought together partisans from
+various groups and provided an occasion to compare goals and methods. 
+The more committed partisans frequently communicate with others in their
+groups, but less often across group boundaries.  The Workshop was also
+valuable to attendees--including those involved with American Memory--who
+came less committed to particular approaches or concepts.  These
+attendees learned a great deal, and plan to select and employ elements of
+imaging, text-coding, and networked distribution that suit their
+respective projects and purposes.
+
+Still, reality rears its ugly head:  no breakthrough has been achieved. 
+On the imaging side, one confronts a proliferation of competing
+data-interchange standards and a lack of consensus on the role of digital
+facsimiles in preservation.  In the realm of machine-readable texts, one
+encounters a reasonably mature standard but methodological difficulties
+and high costs.  These latter problems, of course, represent a special
+impediment to the desire, as it is sometimes expressed in the popular
+press, "to put the [contents of the] Library of Congress on line."  In
+the words of one participant, there was "no solution to the economic
+problems--the projects that are out there are surviving, but it is going
+to be a lot of work to transform the information industry, and so far the
+investment to do that is not forthcoming" (LESK, per litteras).
+
+SESSION III.  DISTRIBUTION, NETWORKS, AND NETWORKING:  OPTIONS FOR
+DISSEMINATION
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ZICH * Issues pertaining to CD-ROMs * Options for publishing in CD-ROM *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Robert ZICH, special assistant to the associate librarian for special
+projects, Library of Congress, and moderator of this session, first noted
+the blessed but somewhat awkward circumstance of having four very
+distinguished people representing networks and networking or at least
+leaning in that direction, while lacking anyone to speak from the
+strongest possible background in CD-ROMs.  ZICH expressed the hope that
+members of the audience would join the discussion.  He stressed the
+subtitle of this particular session, "Options for Dissemination," and,
+concerning CD-ROMs, the importance of determining when it would be wise
+to consider dissemination in CD-ROM versus networks.  A shopping list of
+issues pertaining to CD-ROMs included:  the grounds for selecting
+commercial publishers, and in-house publication where possible versus
+nonprofit or government publication.  A similar list for networks
+included:  determining when one should consider dissemination through a
+network, identifying the mechanisms or entities that exist to place items
+on networks, identifying the pool of existing networks, determining how a
+producer  would choose between networks, and identifying the elements of
+a business arrangement in a network.
+
+Options for publishing in CD-ROM:  an outside publisher versus
+self-publication.  If an outside publisher is used, it can be nonprofit,
+such as the Government Printing Office (GPO) or the National Technical
+Information Service (NTIS), in the case of government.  The pros and cons
+associated with employing an outside publisher are obvious.  Among the
+pros, there is no trouble getting accepted.  One pays the bill and, in
+effect, goes one's way.  Among the cons, when one pays an outside
+publisher to perform the work, that publisher will perform the work it is
+obliged to do, but perhaps without the production expertise and skill in
+marketing and dissemination that some would seek.  There is the body of
+commercial publishers that do possess that kind of expertise in
+distribution and marketing but that obviously are selective.  In
+self-publication, one exercises full control, but then one must handle
+matters such as distribution and marketing.  Such are some of the options
+for publishing in the case of CD-ROM.
+
+In the case of technical and design issues, which are also important,
+there are many matters which many at the Workshop already knew a good
+deal about:  retrieval system requirements and costs, what to do about
+images, the various capabilities and platforms, the trade-offs between
+cost and performance, concerns about local-area networkability,
+interoperability, etc.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LYNCH * Creating networked information is different from using networks
+as an access or dissemination vehicle * Networked multimedia on a large
+scale does not yet work * Typical CD-ROM publication model a two-edged
+sword * Publishing information on a CD-ROM in the present world of
+immature standards * Contrast between CD-ROM and network pricing *
+Examples demonstrated earlier in the day as a set of insular information
+gems * Paramount need to link databases * Layering to become increasingly
+necessary * Project NEEDS and the issues of information reuse and active
+versus passive use * X-Windows as a way of differentiating between
+network access and networked information * Barriers to the distribution
+of networked multimedia information * Need for good, real-time delivery
+protocols * The question of presentation integrity in client-server
+computing in the academic world * Recommendations for producing multimedia
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Clifford LYNCH, director, Library Automation, University of California,
+opened his talk with the general observation that networked information
+constituted a difficult and elusive topic because it is something just
+starting to develop and not yet fully understood.  LYNCH contended that
+creating genuinely networked information was different from using
+networks as an access or dissemination vehicle and was more sophisticated
+and more subtle.  He invited the members of the audience to extrapolate,
+from what they heard about the preceding demonstration projects, to what
+sort of a world of electronics information--scholarly, archival,
+cultural, etc.--they wished to end up with ten or fifteen years from now. 
+LYNCH suggested that to extrapolate directly from these projects would
+produce unpleasant results.
+
+Putting the issue of CD-ROM in perspective before getting into
+generalities on networked information, LYNCH observed that those engaged
+in multimedia today who wish to ship a product, so to say, probably do
+not have much choice except to use CD-ROM:  networked multimedia on a
+large scale basically does not yet work because the technology does not
+exist.  For example, anybody who has tried moving images around over the
+Internet knows that this is an exciting touch-and-go process, a
+fascinating and fertile area for experimentation, research, and
+development, but not something that one can become deeply enthusiastic
+about committing to production systems at this time.
+
+This situation will change, LYNCH said.  He differentiated CD-ROM from
+the practices that have been followed up to now in distributing data on
+CD-ROM.  For LYNCH the problem with CD-ROM is not its portability or its
+slowness but the two-edged sword of having the retrieval application and
+the user interface inextricably bound up with the data, which is the
+typical CD-ROM publication model.  It is not a case of publishing data
+but of distributing a typically stand-alone, typically closed system,
+all--software, user interface, and data--on a little disk.  Hence, all
+the between-disk navigational issues as well as the impossibility in most
+cases of integrating data on one disk with that on another.  Most CD-ROM
+retrieval software does not network very gracefully at present.  However,
+in the present world of immature standards and lack of understanding of
+what network information is or what the ground rules are for creating or
+using it, publishing information on a CD-ROM does add value in a very
+real sense.
+
+LYNCH drew a contrast between CD-ROM and network pricing and in doing so
+highlighted something bizarre in information pricing.  A large
+institution such as the University of California has vendors who will
+offer to sell information on CD-ROM for a price per year in four digits,
+but for the same data (e.g., an abstracting and indexing database) on
+magnetic tape, regardless of how many people may use it concurrently,
+will quote a price in six digits.
+
+What is packaged with the CD-ROM in one sense adds value--a complete
+access system, not just raw, unrefined information--although it is not
+generally perceived that way.  This is because the access software,
+although it adds value, is viewed by some people, particularly in the
+university environment where there is a very heavy commitment to
+networking, as being developed in the wrong direction.
+
+Given that context, LYNCH described the examples demonstrated as a set of
+insular information gems--Perseus, for example, offers nicely linked
+information, but would be very difficult to integrate with other
+databases, that is, to link together seamlessly with other source files
+from other sources.  It resembles an island, and in this respect is
+similar to numerous stand-alone projects that are based on videodiscs,
+that is, on the single-workstation concept.
+
+As scholarship evolves in a network environment, the paramount need will
+be to link databases.  We must link personal databases to public
+databases, to group databases, in fairly seamless ways--which is
+extremely difficult in the environments under discussion with copies of
+databases proliferating all over the place.
+
+The notion of layering also struck LYNCH as lurking in several of the
+projects demonstrated.  Several databases in a sense constitute
+information archives without a significant amount of navigation built in. 
+Educators, critics, and others will want a layered structure--one that
+defines or links paths through the layers to allow users to reach
+specific points.  In LYNCH's view, layering will become increasingly
+necessary, and not just within a single resource but across resources
+(e.g., tracing mythology and cultural themes across several classics
+databases as well as a database of Renaissance culture).  This ability to
+organize resources, to build things out of multiple other things on the
+network or select pieces of it, represented for LYNCH one of the key
+aspects of network information.
+
+Contending that information reuse constituted another significant issue,
+LYNCH commended to the audience's attention Project NEEDS (i.e., National
+Engineering Education Delivery System).  This project's objective is to
+produce a database of engineering courseware as well as the components
+that can be used to develop new courseware.  In a number of the existing
+applications, LYNCH said, the issue of reuse (how much one can take apart
+and reuse in other applications) was not being well considered.  He also
+raised the issue of active versus passive use, one aspect of which  is
+how much information will be manipulated locally by users.  Most people,
+he argued, may do a little browsing and then will wish to print.  LYNCH
+was uncertain how these resources would be used by the vast majority of
+users in the network environment.
+
+LYNCH next said a few words about X-Windows as a way of differentiating
+between network access and networked information.  A number of the
+applications demonstrated at the Workshop could be rewritten to use X
+across the network, so that one could run them from any X-capable device-
+-a workstation, an X terminal--and transact with a database across the
+network.  Although this opens up access a little, assuming one has enough
+network to handle it, it does not provide an interface to develop a
+program that conveniently integrates information from multiple databases. 
+X is a viewing technology that has limits.  In a real sense, it is just a
+graphical version of remote log-in across the network.  X-type applications
+represent only one step in the progression towards real access.
+
+LYNCH next discussed barriers to the distribution of networked multimedia
+information.  The heart of the problem is a lack of standards to provide
+the ability for computers to talk to each other, retrieve information,
+and shuffle it around fairly casually.  At the moment, little progress is
+being made on standards for networked information; for example, present
+standards do not cover images, digital voice, and digital video.  A
+useful tool kit of exchange formats for basic texts is only now being
+assembled.  The synchronization of content streams (i.e., synchronizing a
+voice track to a video track, establishing temporal relations between
+different components in a multimedia object) constitutes another issue
+for networked multimedia that is just beginning to receive attention.
+
+Underlying network protocols also need some work; good, real-time
+delivery protocols on the Internet do not yet exist.  In LYNCH's view,
+highly important in this context is the notion of networked digital
+object IDs, the ability of one object on the network to point to another
+object (or component thereof) on the network.  Serious bandwidth issues
+also exist.  LYNCH was uncertain if billion-bit-per-second networks would
+prove sufficient if numerous people ran video in parallel.
+
+LYNCH concluded by offering an issue for database creators to consider,
+as well as several comments about what might constitute good trial
+multimedia experiments.  In a networked information world the database
+builder or service builder (publisher) does not exercise the same
+extensive control over the integrity of the presentation; strange
+programs "munge" with one's data before the user sees it.  Serious
+thought must be given to what guarantees integrity of presentation.  Part
+of that is related to where one draws the boundaries around a networked
+information service.  This question of presentation integrity in
+client-server computing has not been stressed enough in the academic
+world, LYNCH argued, though commercial service providers deal with it
+regularly.
+
+Concerning multimedia, LYNCH observed that good multimedia at the moment
+is hideously expensive to produce.  He recommended producing multimedia
+with either very high sale value, or multimedia with a very long life
+span, or multimedia that will have a very broad usage base and whose
+costs therefore can be amortized among large numbers of users.  In this
+connection, historical and humanistically oriented material may be a good
+place to start, because it tends to have a longer life span than much of
+the scientific material, as well as a wider user base.  LYNCH noted, for
+example, that American Memory fits many of the criteria outlined.  He
+remarked the extensive discussion about bringing the Internet or the
+National Research and Education Network (NREN) into the K-12 environment
+as a way of helping the American educational system.
+
+LYNCH closed by noting that the kinds of applications demonstrated struck
+him as excellent justifications of broad-scale networking for K-12, but
+that at this time no "killer" application exists to mobilize the K-12
+community to obtain connectivity.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Dearth of genuinely interesting applications on the network
+a slow-changing situation * The issue of the integrity of presentation in
+a networked environment * Several reasons why CD-ROM software does not
+network *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the discussion period that followed LYNCH's presentation, several
+additional points were made.
+
+LYNCH reiterated even more strongly his contention that, historically,
+once one goes outside high-end science and the group of those who need
+access to supercomputers, there is a great dearth of genuinely
+interesting applications on the network.  He saw this situation changing
+slowly, with some of the scientific databases and scholarly discussion
+groups and electronic journals coming on as well as with the availability
+of Wide Area Information Servers (WAIS) and some of the databases that
+are being mounted there.  However, many of those things do not seem to
+have piqued great popular interest.  For instance, most high school
+students of LYNCH's acquaintance would not qualify as devotees of serious
+molecular biology.
+
+Concerning the issue of the integrity of presentation, LYNCH believed
+that a couple of information providers have laid down the law at least on
+certain things.  For example, his recollection was that the National
+Library of Medicine feels strongly that one needs to employ the
+identifier field if he or she is to mount a database commercially.  The
+problem with a real networked environment is that one does not know who
+is reformatting and reprocessing one's data when one enters a client
+server mode.  It becomes anybody's guess, for example, if the network
+uses a Z39.50 server, or what clients are doing with one's data.  A data
+provider can say that his contract will only permit clients to have
+access to his data after he vets them and their presentation and makes
+certain it suits him.  But LYNCH held out little expectation that the
+network marketplace would evolve in that way, because it required too
+much prior negotiation.
+
+CD-ROM software does not network for a variety of reasons, LYNCH said. 
+He speculated that CD-ROM publishers are not eager to have their products
+really hook into wide area networks, because they fear it will make their
+data suppliers nervous.  Moreover, until relatively recently, one had to
+be rather adroit to run a full TCP/IP stack plus applications on a
+PC-size machine, whereas nowadays it is becoming easier as PCs grow
+bigger and faster.  LYNCH also speculated that software providers had not
+heard from their customers until the last year or so, or had not heard
+from enough of their customers.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+BESSER * Implications of disseminating images on the network; planning
+the distribution of multimedia documents poses two critical
+implementation problems * Layered approach represents the way to deal
+with users' capabilities * Problems in platform design; file size and its
+implications for networking * Transmission of megabyte size images
+impractical * Compression and decompression at the user's end * Promising
+trends for compression * A disadvantage of using X-Windows * A project at
+the Smithsonian that mounts images on several networks *  
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Howard BESSER, School of Library and Information Science, University of
+Pittsburgh, spoke primarily about multimedia, focusing on images and the
+broad implications of disseminating them on the network.  He argued that
+planning the distribution of multimedia documents posed two critical
+implementation problems, which he framed in the form of two questions: 
+1) What platform will one use and what hardware and software will users
+have for viewing of the material?  and 2) How can one deliver a
+sufficiently robust set of information in an accessible format in a
+reasonable amount of time?  Depending on whether network or CD-ROM is the
+medium used, this question raises different issues of storage,
+compression, and transmission.
+
+Concerning the design of platforms (e.g., sound, gray scale, simple
+color, etc.) and the various capabilities users may have, BESSER
+maintained that a layered approach was the way to deal with users'
+capabilities.  A result would be that users with less powerful
+workstations would simply have less functionality.  He urged members of
+the audience to advocate standards and accompanying software that handle
+layered functionality across a wide variety of platforms.
+
+BESSER also addressed problems in platform design, namely, deciding how
+large a machine to design for situations when the largest number of users
+have the lowest level of the machine, and one desires higher
+functionality.  BESSER then proceeded to the question of file size and
+its implications for networking.  He discussed still images in the main. 
+For example, a digital color image that fills the screen of a standard
+mega-pel workstation (Sun or Next) will require one megabyte of storage
+for an eight-bit image or three megabytes of storage for a true color or
+twenty-four-bit image.  Lossless compression algorithms (that is,
+computational procedures in which no data is lost in the process of
+compressing [and decompressing] an image--the exact bit-representation is
+maintained) might bring storage down to a third of a megabyte per image,
+but not much further than that.  The question of size makes it difficult
+to fit an appropriately sized set of these images on a single disk or to
+transmit them quickly enough on a network.
+
+With these full screen mega-pel images that constitute a third of a
+megabyte, one gets 1,000-3,000 full-screen images on a one-gigabyte disk;
+a standard CD-ROM represents approximately 60 percent of that.  Storing
+images the size of a PC screen (just 8 bit color) increases storage
+capacity to 4,000-12,000 images per gigabyte; 60 percent of that gives
+one the size of a CD-ROM, which in turn creates a major problem.  One
+cannot have full-screen, full-color images with lossless compression; one
+must compress them or use a lower resolution.  For megabyte-size images,
+anything slower than a T-1 speed is impractical.  For example, on a
+fifty-six-kilobaud line, it takes three minutes to transfer a
+one-megabyte file, if it is not compressed; and this speed assumes ideal
+circumstances (no other user contending for network bandwidth).  Thus,
+questions of disk access, remote display, and current telephone
+connection speed make transmission of megabyte-size images impractical.
+
+BESSER then discussed ways to deal with these large images, for example,
+compression and decompression at the user's end.  In this connection, the
+issues of how much one is willing to lose in the compression process and
+what image quality one needs in the first place are unknown.  But what is
+known is that compression entails some loss of data.  BESSER urged that
+more studies be conducted on image quality in different situations, for
+example, what kind of images are needed for what kind of disciplines, and
+what kind of image quality is needed for a browsing tool, an intermediate
+viewing tool, and archiving.
+
+BESSER remarked two promising trends for compression:  from a technical
+perspective, algorithms that use what is called subjective redundancy
+employ principles from visual psycho-physics to identify and remove
+information from the image that the human eye cannot perceive; from an
+interchange and interoperability perspective, the JPEG (i.e., Joint
+Photographic Experts Group, an ISO standard) compression algorithms also
+offer promise.  These issues of compression and decompression, BESSER
+argued, resembled those raised earlier concerning the design of different
+platforms.  Gauging the capabilities of potential users constitutes a
+primary goal.  BESSER advocated layering or separating the images from
+the applications that retrieve and display them, to avoid tying them to
+particular software.
+
+BESSER detailed several lessons learned from his work at Berkeley with
+Imagequery, especially the advantages and disadvantages of using
+X-Windows.  In the latter category, for example, retrieval is tied
+directly to one's data, an intolerable situation in the long run on a
+networked system.  Finally, BESSER described a project of Jim Wallace at
+the Smithsonian Institution, who is mounting images in a extremely
+rudimentary way on the Compuserv and Genie networks and is preparing to
+mount them on America On Line.  Although the average user takes over
+thirty minutes to download these images (assuming a fairly fast modem),
+nevertheless, images have been downloaded 25,000 times.
+
+BESSER concluded his talk with several comments on the business
+arrangement between the Smithsonian and Compuserv.  He contended that not
+enough is known concerning the value of images.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+DISCUSSION * Creating digitized photographic collections nearly
+impossible except with large organizations like museums * Need for study
+to determine quality of images users will tolerate *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+During the brief exchange between LESK and BESSER that followed, several
+clarifications emerged.
+
+LESK argued that the photographers were far ahead of BESSER:  It is
+almost impossible to create such digitized photographic collections
+except with large organizations like museums, because all the
+photographic agencies have been going crazy about this and will not sign
+licensing agreements on any sort of reasonable terms.  LESK had heard
+that National Geographic, for example, had tried to buy the right to use
+some image in some kind of educational production for $100 per image, but
+the photographers will not touch it.  They want accounting and payment
+for each use, which cannot be accomplished within the system.  BESSER
+responded that a consortium of photographers, headed by a former National
+Geographic photographer, had started assembling its own collection of
+electronic reproductions of images, with the money going back to the
+cooperative.
+
+LESK contended that BESSER was unnecessarily pessimistic about multimedia
+images, because people are accustomed to low-quality images, particularly
+from video.  BESSER urged the launching of a study to determine what
+users would tolerate, what they would feel comfortable with, and what
+absolutely is the highest quality they would ever need.  Conceding that
+he had adopted a dire tone in order to arouse people about the issue,
+BESSER closed on a sanguine note by saying that he would not be in this
+business if he did not think that things could be accomplished.
+
+                                 ******
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+LARSEN * Issues of scalability and modularity * Geometric growth of the
+Internet and the role played by layering * Basic functions sustaining
+this growth * A library's roles and functions in a network environment *
+Effects of implementation of the Z39.50 protocol for information
+retrieval on the library system * The trade-off between volumes of data
+and its potential usage * A snapshot of current trends *
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Ronald LARSEN, associate director for information technology, University
+of Maryland at College Park, first addressed the issues of scalability
+and modularity.  He noted the difficulty of anticipating the effects of
+orders-of-magnitude growth, reflecting on the twenty years of experience
+with the Arpanet and Internet.  Recalling the day's demonstrations of
+CD-ROM and optical disk material, he went on to ask if the field has yet
+learned how to scale new systems to enable delivery and dissemination
+across large-scale networks.
+
+LARSEN focused on the geometric growth of the Internet from its inception
+circa 1969 to the present, and the adjustments required to respond to
+that rapid growth.  To illustrate the issue of scalability, LARSEN
+considered computer networks as including three generic components: 
+computers, network communication nodes, and communication media.  Each
+component scales (e.g., computers range from PCs to supercomputers;
+network nodes scale from interface cards in a PC through sophisticated
+routers and gateways; and communication media range from 2,400-baud
+dial-up facilities through 4.5-Mbps backbone links, and eventually to
+multigigabit-per-second communication lines), and architecturally, the
+components are organized to scale hierarchically from local area networks
+to international-scale networks.  Such growth is made possible by
+building layers of communication protocols, as BESSER pointed out.
+By layering both physically and logically, a sense of scalability is
+maintained from local area networks in offices, across campuses, through
+bridges, routers, campus backbones, fiber-optic links, etc., up into
+regional networks and ultimately into national and international
+networks.
+
+LARSEN then illustrated the geometric growth over a two-year period--
+through September 1991--of the number of networks that comprise the
+Internet.  This growth has been sustained largely by the availability of
+three basic functions:  electronic mail, file transfer (ftp), and remote
+log-on (telnet).  LARSEN also reviewed the growth in the kind of traffic
+that occurs on the network.  Network traffic reflects the joint contributions
+of a larger population of users and increasing use per user.  Today one sees
+serious applications involving moving images across the network--a rarity
+ten years ago.  LARSEN recalled and concurred with BESSER's main point
+that the interesting problems occur at the application level.
+
+LARSEN then illustrated a model of a library's roles and functions in a
+network environment.  He noted, in particular, the placement of on-line
+catalogues onto the network and patrons obtaining access to the library
+increasingly through local networks, campus networks, and the Internet. 
+LARSEN supported LYNCH's earlier suggestion that we need to address
+fundamental questions of networked information in order to build
+environments that scale in the information sense as well as in the
+physical sense.
+
+LARSEN supported the role of the library system as the access point into
+the nation's electronic collections.  Implementation of the Z39.50
+protocol for information retrieval would make such access practical and
+feasible.  For example, this would enable patrons in Maryland to search
+California libraries, or other libraries around the world that are
+conformant with Z39.50 in a manner that is familiar to University of
+Maryland patrons.  This client-server model also supports moving beyond
+secondary content into primary content.  (The notion of how one links
+from secondary content to primary content, LARSEN said, represents a
+fundamental problem that requires rigorous thought.)  After noting
+numerous network experiments in accessing full-text materials, including
+projects supporting the ordering of materials across the network, LARSEN
+revisited the issue of transmitting high-density, high-resolution color
+images across the network and the large amounts of bandwidth they
+require.  He went on to address the bandwidth and synchronization
+problems inherent in sending full-motion video across the network.
+
+LARSEN illustrated the trade-off between volumes of data in bytes or
+orders of magnitude and the potential usage of that data.  He discussed
+transmission rates (particularly, the time it takes to move various forms
+of information), and what one could do with a network supporting
+multigigabit-per-second transmission.  At the moment, the network
+environment includes a composite of data-transmission requirements,
+volumes and forms, going from steady to bursty (high-volume) and from
+very slow to very fast.  This aggregate must be considered in the design,
+construction, and operation of multigigabyte networks.
+
+LARSEN's objective is to use the networks and library systems now being
+constructed to increase access to resources wherever they exist, and
+thus, to evolve toward an on-line electronic virtual library.
+
+LARSEN concluded by offering a snapshot of current trends:  continuing
+geometric growth in network capacity and number of users; slower
+development of applications; and glacial development and adoption of
+standards.  The challenge is to design and develop each new application
+system with network access and scalability in mind.
